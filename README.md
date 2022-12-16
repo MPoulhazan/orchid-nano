@@ -1,7 +1,7 @@
-# REACT CLI TYPESCRIPT SCSS
-React cli with Typescript configured, SCSS, example of Router and stricts lint rules.
+# ORCHID NANOPAIMENS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web App Demonstrating Orchid's Nanopayment Technology, which uses Orchid's Layer 2 "nanopayments" to send probabilistic payments back and forth between two Orchid accounts. Probablistic nanopayments are a layer 2 Ethereum scaling solution somewhere between "one-to-many payment channels" and "probablistic roll-ups". The core smart contract that governs the layer 2 is lottery1.sol and is deployed on 9 EVM compatible blockchains.
+<a href="https://gitcoin.co/issue/29318" target="_blank">See bounty</a>
 
 ## Available Scripts
 
