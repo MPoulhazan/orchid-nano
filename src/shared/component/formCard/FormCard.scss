@@ -1,0 +1,30 @@
+.FormCard {
+    background: rgb(30, 23, 42);
+    background: linear-gradient(
+        180deg,
+        rgba(30, 23, 42, 1) 0%,
+        rgba(29, 23, 38, 1) 100%
+    );
+    min-height: 10rem;
+    box-shadow: -1px -1px 2px #707070;
+    color: #9990a8;
+    padding: 1rem;
+
+    .text-red-500 {
+        color: rgb(255, 41, 41);
+    }
+    .copy {
+        margin: auto;
+        font-size: 2em;
+        color: #ffffff;
+        cursor: pointer;
+    }
+    .buttons {
+        display: flex;
+        flex-direction: row;
+
+        .button-container {
+            flex: auto;
+        }
+    }
+}
